@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo
+.venv/
+venv/
+
+# Tài liệu Word & file tạm
+*.docx
+~$*
+
+# Hình ảnh sinh ra khi chạy mô phỏng
+*.png
